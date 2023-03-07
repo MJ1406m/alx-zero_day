@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mv echo ALXecho ALX School is so cool!
+=======
+rm echo ALX echo ALX School 
+>>>>>>> update_script
